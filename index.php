@@ -15,4 +15,5 @@
      });
  }
 </script>
-<span id="hours">0</span>:<span id="minutes">0</span>:<span id="seconds">0</span>
+Welcome to Commerce Bank 
+<BR>The time is:<span id="hours">0</span>:<span id="minutes">0</span>:<span id="seconds">0</span>
