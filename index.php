@@ -33,6 +33,7 @@ button {
 .imgcontainer {
     text-align: center;
     margin: 24px 0 12px 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 img.avatar {
@@ -62,11 +63,12 @@ span.psw {
 </style>
 <body>
 
-<h2>Login Form</h2>
+
 
 <form action="/action_page.php">
   <div class="imgcontainer">
     <img src="longlogo.png" alt="Avatar" class="avatar">
+    <h2>Login Form</h2>
   </div>
 
   <div class="container">
