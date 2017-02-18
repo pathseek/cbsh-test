@@ -37,11 +37,11 @@ button {
 
 img.avatar {
     width: 40%;
-    border-radius: 50%;
 }
 
 .container {
     padding: 16px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 span.psw {
