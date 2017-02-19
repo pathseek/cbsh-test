@@ -1,4 +1,4 @@
-php
+CSBH Test Application
 ===
 
-This is my first app
+The is a generic login script for a test application.
